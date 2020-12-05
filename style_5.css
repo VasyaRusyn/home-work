@@ -1,0 +1,93 @@
+*{
+  overflow: hidden;
+}
+.fas{
+  font-size: 35px;
+  color: white;
+  padding-left: 10px;
+}
+.fa-door-open{
+  color: rgba(255, 255, 255, 0.5);
+}
+.fa-user-circle
+  {
+    color: rgba(255, 255, 255, 0.5);
+  }
+.row{
+  margin: auto;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.fa-bell{
+    color: rgba(255, 255, 255, 0.5);
+}
+.fa-bell:hover{
+      color: rgba(255, 255, 255, 1);}
+
+.fa-user-circle:hover{
+      color: rgba(255, 255, 255, 1);}
+}
+.fa-door-open:hover{
+  color: rgba(255, 255, 255, 1);
+}
+.carouselExampleControls{
+
+}
+h5{
+  color: #15dafc ;
+
+}
+#carouselExampleControls{
+  width: 500px;
+  margin: auto;
+}
+.fa-arrow-left{
+    color: #15dafc ;
+    float: left;
+    font-size: 22px;
+}
+.fa-arrow-right{
+  color: #15dafc ;
+  float:right;
+  font-size: 22px;
+}
+.text-center{
+  font-size: 35px;
+}
+.table{
+  margin-left:10px;
+  border: 1px solid grey ;
+}
+th{
+  border: 1px solid grey ;
+  text-align: center;
+  background-color: #b0f8ff ;
+}
+#number{
+  width: 60px;
+  height: 70px;
+  font-weight: bold;
+}
+
+td{
+border: 1px solid grey ;
+  text-align: center;
+  width: 80px;
+}
+thead{
+  background: #b0f8ff ;
+  color: white;
+  font-size: 20px;
+}
+.align-top{
+  position: relative;
+  top: -37px;
+  left: 40px;
+  background-color: #65d3f0;
+  color: white;
+  border-radius: 5px;
+  font-size: 13px;
+}
+table{
+  font-size: 20px;
+}
