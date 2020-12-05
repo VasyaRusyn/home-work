@@ -1,0 +1,63 @@
+.fas{
+  font-size: 35px;
+  padding-left: 10px;
+}
+.fa-user-graduate{
+  color: white ;
+}
+.text-center{
+  font-size: 25px;
+}
+.form-select{
+  max-width: 180px;
+}
+.group{
+  color: #c3c3c3 ;
+}
+.first{
+  max-width: 300px;
+}
+button{
+  margin-top: 40px ;
+  width: 80px;
+}
+.form-select{
+  width: 150px;
+}
+th {
+  height: 70px;
+  border: none;
+  background-color: #a4ffff ;
+  color: white ;
+}
+#widch{
+  width: 700px;
+}
+#number{
+  text-align: center;
+  width: 150px;
+}
+td{
+    height: 80px;
+    width: 120px;
+}
+.fa-file-code{
+  color: #74d4d4 ;
+}
+.table_form{
+  width: 80px;
+  float:right;
+}
+.text-center{
+  font-size: 16px;
+}
+.fa-minus{
+  color: #74d4d4 ;
+  font-size: 50px;
+}
+.fa-link{
+    color: #74d4d4 ;
+}
+.home{
+  font-size: 25px;
+}

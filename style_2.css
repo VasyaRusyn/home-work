@@ -1,0 +1,45 @@
+.fas{
+  font-size: 35px;
+  color: white;
+  padding-left: 10px;
+}
+.fa-door-open{
+  color: rgba(255, 255, 255, 0.5);
+}
+.fa-user-circle
+  {
+    color: rgba(255, 255, 255, 0.5);
+  }
+.row{
+  margin: auto;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+.fa-bell{
+    color: rgba(255, 255, 255, 0.5);
+}
+.fa-bell:hover{
+      color: rgba(255, 255, 255, 1);}
+
+.fa-user-circle:hover{
+      color: rgba(255, 255, 255, 1);}
+}
+.fa-door-open:hover{
+  color: rgba(255, 255, 255, 1);
+}
+p{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+
+}
+h5{
+  font-size: 12px;
+}
+.card-text{
+  font-size: 18px;
+  text-align: left;
+}
+.link{
+  text-decoration: none;
+}

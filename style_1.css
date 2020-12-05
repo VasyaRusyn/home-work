@@ -1,0 +1,66 @@
+.row{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(kniga_igrushki_prazdnik_76952_1920x1080.jpg);
+  background-size: 100% 100% ;
+  background-repeat: no-repeat;
+}
+
+
+.registr{
+width: 500px;
+height: 600px;
+margin: auto;
+}
+.book{
+  width: 100%;
+  background-color:rgba(244, 241, 231,0.9) ;
+  height: 100px;
+  margin: 0;
+  border-radius: 5px;
+  text-align: center;
+}
+.book>p{
+  font-size: 32px;
+  padding-top: 30px;
+  }
+.user{
+  height: 470px;
+  background-color:rgba(244, 241, 231,0.85) ;
+  margin-top: 30px;
+}
+.user>p{
+  padding: 50px 0 0 40px;
+  font-size: 20px;
+}
+input{
+  margin-left: 40px;
+  width: 380px ;
+  height: 45px;
+  border-radius: 5px;
+  border: none ;
+}
+input:focus{
+  outline: none;
+}
+#padding{
+  padding-top: 20px;
+}
+#aggree{
+margin-top: 20px;
+background-color: #dddddd;
+  width: 15px;
+  height: 15px;
+  font-weight: bold;
+}
+.button{
+  margin-left: 40px;
+  width: 380px;
+  height: 45px;
+  margin-top: 20px;
+  font-size: 20px;
+  }
+a{
+  color: white ;
+  text-decoration: none;
+}
