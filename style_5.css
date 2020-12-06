@@ -59,9 +59,9 @@ h5{
   border: 1px solid grey ;
 }
 th{
+  color: white ;
   border: 1px solid grey ;
   text-align: center;
-  background-color: #b0f8ff ;
 }
 #number{
   width: 60px;
@@ -75,7 +75,6 @@ border: 1px solid grey ;
   width: 80px;
 }
 thead{
-  background: #b0f8ff ;
   color: white;
   font-size: 20px;
 }
