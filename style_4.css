@@ -54,7 +54,9 @@ input{
   border-radius: 50%;
   border: 1px solid #f2000f ;
  }
-
+.tt{
+  font-size: 30px;
+}
 
  .radio1 input { display: none; }
   .radio1 span {
