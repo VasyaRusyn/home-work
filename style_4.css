@@ -1,0 +1,83 @@
+.fas{
+  font-size: 35px;
+  padding-left: 10px;
+}
+.fa-user-graduate{
+  color: white ;
+}
+*{
+  overflow: hidden;
+}
+.row{
+  width: 100vw;
+  height: 120px;
+
+
+}
+span{
+  color: #cccccc;
+}
+.group{
+  width: 100px;
+
+}
+.Subject{
+  margin-left: 120px;
+}
+button{
+width: 160px;
+}
+th{
+  height: 65px;
+text-align: center;
+}
+td{
+  height: 60px;
+  text-align:  center;
+
+}
+#number{
+  width: 5%;
+}
+#widch{
+  width: 15%;
+  text-align: left;
+}
+input{
+  color: red;
+}
+.radio3 input { display: none; }
+ .radio3 span {
+  position: relative;
+  display: inline-block;
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  border: 1px solid #f2000f ;
+ }
+
+
+ .radio1 input { display: none; }
+  .radio1 span {
+   position: relative;
+   display: inline-block;
+   width: 20px; height: 20px;
+   border-radius: 50%;
+   border: 1px solid #0c591a ;
+  }
+
+  .radio2 input { display: none; }
+   .radio2 span {
+    position: relative;
+    display: inline-block;
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    border: 1px solid #f2cb00 ;
+   }
+.form-select{
+  width: 80px;
+  margin: auto;
+}
+.form-control{
+  height: 45px;
+  margin-top: -10px;
+}
