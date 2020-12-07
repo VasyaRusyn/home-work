@@ -95,9 +95,47 @@
   <input class="form-control form-control-lg" type="text" placeholder="" aria-label=".form-control-lg example">
 </div>
 
-<div class="col-3 Homework ml-3 mt-4">
+<div class="col-3 Homework ml-3 mt-1">
   <p> <span>Homework</span> </p>
-<button type="button" class="btn btn-secondary bg-info">Add Homework</button>
+
+  <button type="button" class="btn  bg-info" data-toggle="modal" data-target="#exampleModal" data-whatever="@getbootstrap">Add homework </button>
+
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">New homework</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form>
+            <div class="mb-3">
+              <label for="recipient-name" class="col-form-label">Topic:</label>
+              <input type="text" class="form-control" id="recipient-name">
+            </div>
+            <div class="mb-3">
+              <div class="form-file">
+  <input type="file" class="form-file-input" id="customFile">
+  <label class="form-file-label" for="customFile">
+    <span class="form-file-text">Choose file...</span>
+    <span class="form-file-button">Browse</span>
+  </label>
+</div>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Send message</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
 </div>
 </div>
 
