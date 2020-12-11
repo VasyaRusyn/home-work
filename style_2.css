@@ -16,7 +16,7 @@
   margin-top: 40px;
 }
 .fa-bell{
-    color: rgba(255, 255, 255, 0.5);
+color: white ;
 }
 .fa-bell:hover{
       color: rgba(255, 255, 255, 1);}
@@ -42,4 +42,7 @@ h5{
 }
 .link{
   text-decoration: none;
+}
+.active:active{
+color: white;
 }

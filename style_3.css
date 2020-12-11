@@ -2,6 +2,9 @@
   font-size: 35px;
   padding-left: 10px;
 }
+.active:active{
+color: white;
+}
 .fa-user-graduate{
   color: white ;
 }
@@ -60,4 +63,7 @@ td{
 }
 .home{
   font-size: 25px;
+}
+.homework_white a:active{
+color: white;
 }

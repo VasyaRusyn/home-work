@@ -1,6 +1,9 @@
 *{
   overflow: hidden;
 }
+.active:active{
+color: white;
+}
 .fas{
   font-size: 35px;
   color: white;

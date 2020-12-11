@@ -1,6 +1,9 @@
 .fas{
   font-size: 35px;
   padding-left: 10px;
+  }
+  .active:active{
+color: white;
 }
 .fa-user-graduate{
   color: white ;
